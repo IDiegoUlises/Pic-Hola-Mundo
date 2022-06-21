@@ -1,10 +1,10 @@
 # Pic 16F887 Salidas Digitales
 <img src="https://github.com/IDiegoUlises/Pic-Hola-Mundo/blob/main/Images/16f887-Pic.png"  />
 
-* Vdd: Positivo del microcontrolador 
+* Vdd: Positivo del microcontrolador
 * Vss: Negativo del microcontrolador
-* Clkin: Osicilador a conectado negativo
-* Clkout: Osicilador a conectado negativo
+* Clkin: Osicilador conectado a negativo
+* Clkout: Osicilador conectado a negativo
 
 
 ### Codigo
