@@ -6,8 +6,8 @@
 * Clkin: Osicilador a conectado negativo
 * Clkout: Osicilador a conectado negativo
 
-<img src="https://github.com/IDiegoUlises/Pic-Hola-Mundo/blob/main/Images/Codigo-Imagen.png"  />
 
+### Codigo
 ```c
 #include <16f887.h> //Nombre del microcontrolador
 #fuses xt,nowdt  //para osciladores de 4 MegaHertz se usa xt para mayores usa hs
@@ -25,3 +25,6 @@ void main()
 }
 
 ```
+
+### Compilar en Css Compiler
+<img src="https://github.com/IDiegoUlises/Pic-Hola-Mundo/blob/main/Images/Codigo-Imagen.png"  />
