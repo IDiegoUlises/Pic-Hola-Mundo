@@ -29,6 +29,9 @@ void main()
 ### Compilar en Css Compiler
 <img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Codigo-Imagen.png"  />
 
+### Conectar el Pic al Pickit 
+<img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Pickit3.jpg" width="1000" height="500" />
+
 ### Subir el archivo Hex al Pickit 
 <img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Importar-Hex.png"  />
 
