@@ -38,3 +38,6 @@ void main()
 ### Luego subir el programa al microcontrolador con "Write"
 <img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Write-pickit.png"  />
 
+### Conexion
+<img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Imagen-en-fritzing.png" />
+
