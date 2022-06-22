@@ -39,5 +39,5 @@ void main()
 <img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Write-pickit.png"  />
 
 ### Conexion
-<img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Imagen-en-fritzing.png" />
+<img src="https://github.com/IDiegoUlises/Pic-Salidas-Digitales/blob/main/Images/Imagen-en-fritzing-3.png" />
 
